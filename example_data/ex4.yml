@@ -1,0 +1,28 @@
+---
+alphabet: ["0", "1", "2"]
+
+states:
+  A: INPUT
+  B: REJECT
+  C: COMBINED
+  D: ACCEPT
+  E: REJECT
+  
+transitions:
+ A: 
+    "1": [A]
+    "0": [B]
+    "2": [B]
+ B: 
+    "1": [B, A, E]
+    "0": [C]
+    "2": [B]
+ C: 
+    "1": [B, D]
+    "2": [B]
+ D: 
+    "1": [B]
+    "0": [C, D]
+ E: 
+    "0": [A]
+

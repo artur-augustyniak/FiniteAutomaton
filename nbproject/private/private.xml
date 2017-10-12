@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/exceptions/NonAllowedSymbolException.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/FiniteAutomaton.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/controller/AutomatonBuildController.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/controller/GraphView.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/controller/SetGraphView.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/model/Alphabet.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/model/Automaton.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/model/AutomatonFactory.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/model/Path.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/model/State.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/model/StateSet.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/model/Symbol.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/model/Word.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/parser/Parser.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/parser/StructParser.java</file>
+        <file>file:/media/DATA/IT_lexicon/AUTOMATY_KOMPILATORY/kod/NFA_DFA/FiniteAutomaton/src/pl/aaugustyniak/finiteautomaton/view/MainWindow.java</file>
+    </open-files>
+</project-private>
